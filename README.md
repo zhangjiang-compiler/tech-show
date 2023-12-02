@@ -9,4 +9,4 @@ Zhangjiang Compiler Tech Show
 
 No.|Date|Title|Presenter|Host|Resource Links
 -|-|-|-|-|-
-2023.1|2023/12/2|Physical Memory Management in Linux Kernel|Li Chen|Twice|slides (TBD), video (TBD)
+2023.1|2023/12/2|Physical Memory Management in Linux Kernel|Li Chen|Twice|slides (TBD), video (TBD), [Discussion](https://github.com/zhangjiang-compiler/tech-show/discussions/2) | 
